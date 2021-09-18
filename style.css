@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+}
+#apps{
+    text-align: center;
+    background-color: darkorange;
+}
+#games{
+    background-color: yellow;
+}
+#chatbot{
+    background-color: darkorange
+}
+#img1{
+    width:200px;
+    height:200px;
+}
+#img2{
+    width:200px;
+    height:200px;
+}
+
+
